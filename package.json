@@ -1,0 +1,13 @@
+{
+  "name": "coins-of-robbie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Filipe Névola <filipe@quave.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
