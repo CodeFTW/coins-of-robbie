@@ -10,4 +10,4 @@ Entrar nessa pasta pelo terminal e executar:
 
 `npm install`
 
-
+Estamos usando esse repo para aprender Git tb.
